@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/xandezz/case_meu_bone",
+  "homepage": "https://github.com/xandezz/front-end",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
