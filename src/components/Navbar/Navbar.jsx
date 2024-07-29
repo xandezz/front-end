@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const Navbar = () => {
   return (
     <div className='navbar'>
-      <Link to={'/'} className='link'>
+      <Link to={'/front-end'} className='link'>
         <img src="LOGO-SB_05-300x73.png.webp" alt="logo" className='logo-navbar' />
       </Link>
     </div>
