@@ -1,0 +1,206 @@
+{
+    "São Paulo": {
+        "id_entrada": 80724,
+        "id_layouts": 80718,
+        "nome_cliente": "Anna Luisa 7264 ",
+        "valor_total": 11853.0
+    },
+    "João Pessoa": {
+        "id_entrada": 80730,
+        "id_layouts": 80724,
+        "nome_cliente": "André - Compras GP Neiva",
+        "valor_total": 11450.0
+    },
+    "Rio de Janeiro": {
+        "id_entrada": 80708,
+        "id_layouts": 80702,
+        "nome_cliente": "Luis 4062 (4)",
+        "valor_total": 6980.0
+    },
+    "Porto Alegre": {
+        "id_entrada": 80665,
+        "id_layouts": 80659,
+        "nome_cliente": "Felipe Mateo 7358",
+        "valor_total": 5685.0
+    },
+    "CHAPADAO DO SUL": {
+        "id_entrada": 80745,
+        "id_layouts": 80739,
+        "nome_cliente": "Dania 6742",
+        "valor_total": 4980.0
+    },
+    "São Luís": {
+        "id_entrada": 80628,
+        "id_layouts": 80622,
+        "nome_cliente": "Fernanda  8014  REC",
+        "valor_total": 3735.0
+    },
+    "Cachoeiro de Itapemirim": {
+        "id_entrada": 80697,
+        "id_layouts": 80691,
+        "nome_cliente": "Andrea 0848 - RECOMPRA",
+        "valor_total": 3690.0
+    },
+    "Lucas do Rio Verde": {
+        "id_entrada": 80753,
+        "id_layouts": 80747,
+        "nome_cliente": "Rafael",
+        "valor_total": 3665.0
+    },
+    "Armação dos Búzios": {
+        "id_entrada": 80786,
+        "id_layouts": 80780,
+        "nome_cliente": "Priscila 1509 - ALEGRE'S  ",
+        "valor_total": 3115.0
+    },
+    "Bom Jesus do Norte": {
+        "id_entrada": 80677,
+        "id_layouts": 80671,
+        "nome_cliente": "Dara",
+        "valor_total": 2334.0
+    },
+    "São José do Rio Preto": {
+        "id_entrada": 80747,
+        "id_layouts": 80741,
+        "nome_cliente": "Mariana Alves",
+        "valor_total": 2290.0
+    },
+    "": {
+        "id_entrada": 80685,
+        "id_layouts": 80679,
+        "nome_cliente": "Rao  3511  +30 (Açaí) (Equipe interna) - Açai do Jota",
+        "valor_total": 2184.0
+    },
+    "orlandia": {
+        "id_entrada": 80787,
+        "id_layouts": 80781,
+        "nome_cliente": "Diego Cabral  9510  +30Recompra  Com Logo (Outros) (Presentear clientes) - bertotto",
+        "valor_total": 2054.5
+    },
+    "Blumenau": {
+        "id_entrada": 80635,
+        "id_layouts": 80629,
+        "nome_cliente": "METALURGICA 4591  - Cadência inativo",
+        "valor_total": 1824.0
+    },
+    "PORTO FELIZ": {
+        "id_entrada": 80676,
+        "id_layouts": 80670,
+        "nome_cliente": "Gorgurão",
+        "valor_total": 1795.0
+    },
+    "Pelotas": {
+        "id_entrada": 80769,
+        "id_layouts": 80763,
+        "nome_cliente": "rodrigo",
+        "valor_total": 1645.0
+    },
+    "Salvador": {
+        "id_entrada": 80707,
+        "id_layouts": 80701,
+        "nome_cliente": "Anderson",
+        "valor_total": 1495.0
+    },
+    "Colombo": {
+        "id_entrada": 80770,
+        "id_layouts": 80764,
+        "nome_cliente": "Moik@s",
+        "valor_total": 1495.0
+    },
+    "Macaé": {
+        "id_entrada": 80726,
+        "id_layouts": 80720,
+        "nome_cliente": "  4008  +30 (Vestuário) (Revender)",
+        "valor_total": 1227.0
+    },
+    "Itabuna": {
+        "id_entrada": 80768,
+        "id_layouts": 80762,
+        "nome_cliente": "Tássio Sales 3381",
+        "valor_total": 1212.8
+    },
+    "Florianópolis": {
+        "id_entrada": 80696,
+        "id_layouts": 80690,
+        "nome_cliente": "Oswaldo 6103",
+        "valor_total": 1107.0
+    },
+    "Ribeirão Preto": {
+        "id_entrada": 80638,
+        "id_layouts": 80632,
+        "nome_cliente": "Jairo Lucheta ",
+        "valor_total": 1077.0
+    },
+    "Alta Floresta": {
+        "id_entrada": 80688,
+        "id_layouts": 80682,
+        "nome_cliente": "Gomes Advocacia - gomes prev",
+        "valor_total": 1077.0
+    },
+    " Rio Bonito": {
+        "id_entrada": 80631,
+        "id_layouts": 80625,
+        "nome_cliente": "Jessica",
+        "valor_total": 957.0
+    },
+    "Itatiba": {
+        "id_entrada": 80765,
+        "id_layouts": 80759,
+        "nome_cliente": "Luciano Mota",
+        "valor_total": 957.0
+    },
+    "Rondonópolis": {
+        "id_entrada": 80700,
+        "id_layouts": 80694,
+        "nome_cliente": "L.Felipe  0019  +30 (Vestuário) (Revender) - MONTANHA",
+        "valor_total": 957.0
+    },
+    "Itajubá": {
+        "id_entrada": 80624,
+        "id_layouts": 80618,
+        "nome_cliente": "Daniela",
+        "valor_total": 897.0
+    },
+    "Vila Velha": {
+        "id_entrada": 80626,
+        "id_layouts": 80620,
+        "nome_cliente": "Paula Gasparini",
+        "valor_total": 897.0
+    },
+    "Ascurra": {
+        "id_entrada": 80669,
+        "id_layouts": 80663,
+        "nome_cliente": "Ana Paula",
+        "valor_total": 897.0
+    },
+    "Aracaju": {
+        "id_entrada": 80736,
+        "id_layouts": 80730,
+        "nome_cliente": "David Alves dos Santos  7789  -30 (Outros) (Para a equipe da empresa)",
+        "valor_total": 897.0
+    },
+    "Belo Horizonte": {
+        "id_entrada": 80689,
+        "id_layouts": 80683,
+        "nome_cliente": "Bruna",
+        "valor_total": 897.0
+    },
+    "Vianópolis": {
+        "id_entrada": 80744,
+        "id_layouts": 80738,
+        "nome_cliente": "Cândida",
+        "valor_total": 897.0
+    },
+    "CLÁUDIA": {
+        "id_entrada": 80630,
+        "id_layouts": 80624,
+        "nome_cliente": "Cristyan pitol",
+        "valor_total": 897.0
+    },
+    "Recife": {
+        "id_entrada": 80680,
+        "id_layouts": 80674,
+        "nome_cliente": "Lorena 3663 - PEQUOD",
+        "valor_total": 807.0
+    }
+}
