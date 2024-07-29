@@ -1,0 +1,251 @@
+{
+    "Salvador": {
+        "modelo_mais_vendido": "Trucker, logo em Bordado, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 50,
+        "modelos_quantidades": {
+            "Trucker, logo em Bordado, tecido Padrão, 0 Aplicações Extras": 50
+        }
+    },
+    "Rio de Janeiro": {
+        "modelo_mais_vendido": "Dad Hat, logo em Bordado, tecido Premium, 0 Aplicações Extras",
+        "quantidade_vendida": 250,
+        "modelos_quantidades": {
+            "Dad Hat, logo em Bordado, tecido Premium, 0 Aplicações Extras": 250
+        }   
+    },
+    "Itajubá": {
+        "modelo_mais_vendido": "Trucker, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras": 30
+        }
+    },
+    "Vila Velha": {
+        "modelo_mais_vendido": "Modelo Sport, logo em Bordado, tecido Padrão, 1 Aplicação Extra",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Modelo Sport, logo em Bordado, tecido Padrão, 1 Aplicação Extra": 30
+        }
+    },
+    "São Luís": {
+        "modelo_mais_vendido": "Trucker LB - 100 a 299 unidades, logo em Silk 3D, tecido Padrão, 1 Aplicação Extra",
+        "quantidade_vendida": 150,
+        "modelos_quantidades": {
+            "Trucker LB - 100 a 299 unidades, logo em Silk 3D, tecido Padrão, 1 Aplicação Extra": 150
+        }
+    },
+    " Rio Bonito": {
+        "modelo_mais_vendido": "Trucker, logo em Bordado, tecido Padrão, 1 Aplicação Extra",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Bordado, tecido Padrão, 1 Aplicação Extra": 30
+        }
+    },
+    "Blumenau": {
+        "modelo_mais_vendido": "Trucker, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras": 30,
+            "Americano, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras": 30
+        }
+    },
+    "Ribeirão Preto": {
+        "modelo_mais_vendido": "New York, logo em Bordado, tecido Premium, 0 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "New York, logo em Bordado, tecido Premium, 0 Aplicações Extras": 30
+        }
+    },
+    "São Paulo": {
+        "modelo_mais_vendido": "Dad Hat, logo em Bordado, tecido Premium, 1 Aplicação Extra",
+        "quantidade_vendida": 180,
+        "modelos_quantidades": {
+            "Dad Hat, logo em Bordado, tecido Premium, 1 Aplicação Extra": 180,
+            "Pierside, 0 Aplicações Extras, Sem Forro e Sem viés": 90
+        }
+    },
+    "Macaé": {
+        "modelo_mais_vendido": "Dad Hat, logo em Silk 3D, tecido Premium, 3 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Dad Hat, logo em Silk 3D, tecido Premium, 3 Aplicações Extras": 30
+        }
+    },
+    "João Pessoa": {
+        "modelo_mais_vendido": "Trucker LB - 100 a 299 unidades, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 500,
+        "modelos_quantidades": {
+            "Trucker LB - 100 a 299 unidades, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras": 500,
+            "Viseira Sport, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras": 30
+        }
+    },
+    "": {
+        "modelo_mais_vendido": "New York, logo em Bordado, tecido Premium, 1 Aplicação Extra",
+        "quantidade_vendida": 50,
+        "modelos_quantidades": {
+            "New York, logo em Bordado, tecido Premium, 1 Aplicação Extra": 50,
+            "Trucker, logo em Bordado, tecido Padrão, 0 Aplicações Extras": 30,
+            "Trucker, logo em Silk 3D, tecido Premium, 1 Aplicação Extra": 30,
+            "Americano, logo em Silk 3D, tecido Premium, 1 Aplicação Extra": 30
+        }
+    },
+    "Ascurra": {
+        "modelo_mais_vendido": "Trucker, logo em Bordado, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Bordado, tecido Padrão, 0 Aplicações Extras": 30
+        }
+    },
+    "Bom Jesus do Norte": {
+        "modelo_mais_vendido": "Trucker, logo em Silk 3D, tecido Padrão, 2 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Silk 3D, tecido Padrão, 2 Aplicações Extras": 30,
+            "New York, logo em Bordado, tecido Premium, 4 Aplicações Extras": 30
+        }
+    },
+    "Aracaju": {
+        "modelo_mais_vendido": "Trucker, logo em Bordado, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Bordado, tecido Padrão, 0 Aplicações Extras": 30
+        }
+    },
+    "Belo Horizonte": {
+        "modelo_mais_vendido": "Trucker, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras": 30
+        }
+    },
+    "Vianópolis": {
+        "modelo_mais_vendido": "Trucker, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras": 30
+        }
+    },
+    "Cachoeiro de Itapemirim": {
+        "modelo_mais_vendido": "Chapéu Com e Sem Saia , logo em Bordado, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 100,
+        "modelos_quantidades": {
+            "Chapéu Com e Sem Saia , logo em Bordado, tecido Padrão, 0 Aplicações Extras": 100
+        }
+    },
+    "CHAPADAO DO SUL": {
+        "modelo_mais_vendido": "Trucker LB - 100 a 299 unidades, logo em Bordado, tecido Premium E, 0 Aplicações Extras",
+        "quantidade_vendida": 200,
+        "modelos_quantidades": {
+            "Trucker LB - 100 a 299 unidades, logo em Bordado, tecido Premium E, 0 Aplicações Extras": 200
+        }
+    },
+    "São José do Rio Preto": {
+        "modelo_mais_vendido": "Trucker LB - 100 a 299 unidades, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 100,
+        "modelos_quantidades": {
+            "Trucker LB - 100 a 299 unidades, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras": 100
+        }
+    },
+    "Lucas do Rio Verde": {
+        "modelo_mais_vendido": "New York, logo em Bordado, tecido Premium, 0 Aplicações Extras",
+        "quantidade_vendida": 75,
+        "modelos_quantidades": {
+            "New York, logo em Bordado, tecido Premium, 0 Aplicações Extras": 75,
+            "Dad Hat, logo em Bordado, tecido Premium, 2 Aplicações Extras": 25
+        }
+    },
+    "Porto Alegre": {
+        "modelo_mais_vendido": "New York, logo em Bordado, tecido Premium, 1 Aplicação Extra",
+        "quantidade_vendida": 150,
+        "modelos_quantidades": {
+            "New York, logo em Bordado, tecido Premium, 1 Aplicação Extra": 150
+        }
+    },
+    "Itatiba": {
+        "modelo_mais_vendido": "Trucker, logo em Aplique 3D, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Aplique 3D, tecido Padrão, 0 Aplicações Extras": 30
+        }
+    },
+    "PORTO FELIZ": {
+        "modelo_mais_vendido": "New York, logo em Bordado, tecido Premium, 0 Aplicações Extras",
+        "quantidade_vendida": 50,
+        "modelos_quantidades": {
+            "New York, logo em Bordado, tecido Premium, 0 Aplicações Extras": 50
+        }
+    },
+    "Recife": {
+        "modelo_mais_vendido": "Viseira Sport, logo em Bordado, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Viseira Sport, logo em Bordado, tecido Padrão, 0 Aplicações Extras": 30
+        }
+    },
+    "Itabuna": {
+        "modelo_mais_vendido": "Trucker, logo em Silk 3D, tecido Premium, 2 Aplicações Extras",
+        "quantidade_vendida": 32,
+        "modelos_quantidades": {
+            "Trucker, logo em Silk 3D, tecido Premium, 2 Aplicações Extras": 32
+        }
+    },
+    "Alta Floresta": {
+        "modelo_mais_vendido": "Trucker, logo em Aplique Laser, tecido Premium, 0 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Aplique Laser, tecido Premium, 0 Aplicações Extras": 30
+        }
+    },
+    "Pelotas": {
+        "modelo_mais_vendido": "Americano, logo em Aplique 3D, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 50,
+        "modelos_quantidades": {
+            "Americano, logo em Aplique 3D, tecido Padrão, 0 Aplicações Extras": 50
+        }
+    },
+    "Colombo": {
+        "modelo_mais_vendido": "Trucker, logo em Bordado, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 50,
+        "modelos_quantidades": {
+            "Trucker, logo em Bordado, tecido Padrão, 0 Aplicações Extras": 50
+        }
+    },
+    "Florianópolis": {
+        "modelo_mais_vendido": "Dad Hat, logo em Bordado, tecido Premium, 1 Aplicação Extra",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Dad Hat, logo em Bordado, tecido Premium, 1 Aplicação Extra": 30
+        }
+    },
+    "Rondonópolis": {
+        "modelo_mais_vendido": "Trucker, logo em Bordado, tecido Padrão, 1 Aplicação Extra",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Bordado, tecido Padrão, 1 Aplicação Extra": 30
+        }
+    },
+    "CLÁUDIA": {
+        "modelo_mais_vendido": "Trucker, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Trucker, logo em Silk 3D, tecido Padrão, 0 Aplicações Extras": 30
+        }
+    },
+    "Armação dos Búzios": {
+        "modelo_mais_vendido": "Viseira, logo em Silk 3D, tecido Padrão, 1 Aplicação Extra",
+        "quantidade_vendida": 50,
+        "modelos_quantidades": {
+            "Viseira, logo em Silk 3D, tecido Padrão, 1 Aplicação Extra": 50,
+            "Viseira, logo em Silk 3D, tecido Premium, 1 Aplicação Extra": 25,
+            "New York, logo em Bordado, tecido Premium, 2 Aplicações Extras": 25
+        }
+    },
+    "orlandia": {
+        "modelo_mais_vendido": "Chapéu Agro, logo em Silk 3D, tecido Padrão, 1 Aplicação Extra",
+        "quantidade_vendida": 30,
+        "modelos_quantidades": {
+            "Chapéu Agro, logo em Silk 3D, tecido Padrão, 1 Aplicação Extra": 30,
+            "Trucker, logo em Silk 3D, tecido Padrão, 1 Aplicação Extra": 25
+        }
+    }
+}

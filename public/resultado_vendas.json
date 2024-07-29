@@ -1,0 +1,17 @@
+{
+    "modelo_mais_vendido": "Trucker LB - 100 a 299 unidades",
+    "quantidade_vendida": 950,
+    "modelos_quantidades": {
+        "Trucker LB - 100 a 299 unidades": 950,
+        "Trucker": 577,
+        "Dad Hat": 515,
+        "New York": 410,
+        "Americano": 110,
+        "Chapéu Com e Sem Saia": 100,
+        "Pierside": 90,
+        "Viseira": 75,
+        "Viseira Sport": 60,
+        "Modelo Sport": 30,
+        "Chapéu Agro": 30
+    }
+}
