@@ -1,9 +1,9 @@
 {
-  "name": "front-end",
+  "name": "case_seubone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/xandezz/front-end",
+  "homepage": "https://github.com/xandezz/case_seubone",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

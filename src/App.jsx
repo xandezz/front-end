@@ -15,10 +15,10 @@ function App() {
     <BrowserRouter>
       <Header />
       <Routes>
-        <Route path="/front-end" element={<Home />} />
-        <Route path="/front-end/clientes" element={<Clientes />} />
-        <Route path="/front-end/modelos" element={<Modelos />} />
-        <Route path="/front-end/ticket" element={<TicketMedio />} />
+        <Route path="/case_seubone" element={<Home />} />
+        <Route path="/case_seubone/clientes" element={<Clientes />} />
+        <Route path="/case_seubone/modelos" element={<Modelos />} />
+        <Route path="/case_seubone/ticket" element={<TicketMedio />} />
       </Routes>
     </BrowserRouter>
   )
