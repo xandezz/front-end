@@ -6,19 +6,19 @@ const Home = () => {
   return (
     <div className='homecontainer'>
         <OutlinedCard 
-            jsonPath="front-end/ticketmedio.json" // Caminho para o arquivo JSON
+            jsonPath="ticketmedio.json" // Caminho para o arquivo JSON
             title="Ticket Médio" 
             keyToDisplay="TicketMedio" // Chave para exibir do JSON
             link="/Ticket"
         />
         <OutlinedCard 
-            jsonPath="front-end/redirecionamento.json" // Caminho para o arquivo JSON
+            jsonPath="redirecionamento.json" // Caminho para o arquivo JSON
             title="Maiores clientes por cidade" 
             keyToDisplay="button" // Chave para exibir do JSON
             link="/clientes"
         />
         <OutlinedCard 
-            jsonPath="front-end/resultado_vendas.json" // Caminho para o arquivo JSON
+            jsonPath="resultado_vendas.json" // Caminho para o arquivo JSON
             title="Modelo mais vendido" 
             keyToDisplay="modelo_mais_vendido" // Chave para exibir do JSON
             link="/modelos"
